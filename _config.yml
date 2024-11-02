@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "LorenzLorentz"
-  pronouns         : "he" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Loser"
   location         : "Beijing"
   employer         : "Tsinghua University"
